@@ -1,4 +1,3 @@
-import sys
 from typing import Tuple, Optional
 
 import google.auth
@@ -7,8 +6,6 @@ import vertexai
 from vertexai.language_models import ChatModel, InputOutputTextPair
 
 KEY_FILE = "../credentials.json"
-
-sys.excepthook = imposter_syndrome
 
 
 def connect(
