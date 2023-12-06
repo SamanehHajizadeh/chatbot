@@ -1,0 +1,28 @@
+{"messages":[
+  {
+    "travelerReference": "1",
+    "firstName": "Kalle",
+    "lastName": "Kula",
+    "gender": "MALE",
+    "email": "kalle@gmail.com",
+    "phoneNumber": {
+      "country": "SE",
+      "countryCallingCode": 46,
+      "numberWithoutCountryCode": 722519496
+    }
+  },
+  {
+    "travelerReference": "2",
+    "firstName": "Lisa",
+    "lastName": "Kula",
+    "gender": "FEMALE",
+    "dateOfBirth": "2011-12-11"
+  },
+  {
+    "travelerReference": "3",
+    "firstName": "Bert",
+    "lastName": "Kula",
+    "gender": "MALE",
+    "dateOfBirth": "2019-12-12"
+  }
+]}
